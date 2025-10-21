@@ -13,7 +13,7 @@
 
 - Membuat dan menyiapkan file CSV
   
-<img width="412" height="190" alt="image" src="https://github.com/user-attachments/assets/e547dcdb-53f2-417e-b247-56a4eb1e6160" 
+<img width="412" height="190" alt="image" src="https://github.com/user-attachments/assets/e547dcdb-53f2-417e-b247-56a4eb1e6160" />
   
 - Run program dan klik tombol Upload
 
